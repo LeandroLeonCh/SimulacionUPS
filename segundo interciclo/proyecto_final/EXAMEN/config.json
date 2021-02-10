@@ -1,0 +1,12 @@
+{
+"url":"https://www.facebook.com",
+  "url_excel": "https://office.live.com/start/Excel.aspx?ui=es%2DES",
+  "url_outlook": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fmail%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=e4bb8fcd-4a68-4307-8bce-2fbf9ba5fbfb&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=637484136485928084.d9916d0c-a85a-4b7b-ba3b-4c0e7dfbaf2d&state=DctJDoAgDEBR0KVnQaZKy3FakITEYevx7eL93bfGmFUtygaNwZIRCGIuQEdNFAj2XmssPTTHdLADQXHCWRy0cGIfwiN1q-_mb56Xn4-83w8&sso_reload=true",
+  "url_canva": "http://paintonline.editaraudio.com/",
+  "url_publicacion": "https://www.facebook.com/photo/?fbid=3994762767242994&set=a.172029462849696",
+  "url_drive": "https://drive.google.com/drive/my-drive",
+  "username":"0993983672",
+  "username_correo": "cleonc2@est.ups.edu.ec",
+  "password_correo": "Zep_010.vwAVAC",
+  "password":"Zep_010.VWFB"
+}
